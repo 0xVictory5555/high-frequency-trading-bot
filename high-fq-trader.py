@@ -40,9 +40,6 @@ def buy():
             continue
 
 
-
-#final_price = buy()
-
 def sell(final_price):
     # Posting Sell Order
     params2 = {
